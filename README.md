@@ -1,4 +1,4 @@
-# AlphaTensor
+# AlphaTensor, unbelievable
 
 This is code accompanying the publication
 
